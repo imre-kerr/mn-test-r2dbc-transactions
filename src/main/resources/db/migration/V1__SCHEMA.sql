@@ -1,0 +1,4 @@
+CREATE TABLE hello (
+    id INTEGER PRIMARY KEY,
+    message VARCHAR NOT NULL
+);
